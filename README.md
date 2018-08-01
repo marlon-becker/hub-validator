@@ -19,7 +19,7 @@ brew unlink php56
 brew install php70
 ```
 
-## Executing Tests
+## Executing tests
 
 ```bash
 composer test
